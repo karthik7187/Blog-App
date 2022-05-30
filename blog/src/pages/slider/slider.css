@@ -1,0 +1,25 @@
+
+.slider{
+    
+    background: #efefef;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	color: #777;
+	
+}
+.sliderForm
+
+    {
+
+        padding: 15px;
+    }
+
+
+.sliderForm > label{
+
+
+    
+	border-radius: 0 !important;
+	border: none  !important;
+
+}

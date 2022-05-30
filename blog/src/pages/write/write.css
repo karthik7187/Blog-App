@@ -1,0 +1,86 @@
+.write{
+
+    padding-top: 50px;
+}
+
+.writeImg{
+
+    margin-left: 150px;
+    width: 70vw;
+    height: 250px;
+    border-radius: 10px;
+    
+
+}
+
+.Writeform{
+
+
+    position: absolute;
+   
+
+
+}
+
+.WriteFormGroup{
+
+     margin-left: 150px;
+     border: none;
+
+}
+.writeFormGroup{
+
+    margin-left: 150px;
+    border: none;
+
+
+}
+
+.fileicon{
+
+
+    width: 25px;
+    height: 25px;
+      border-radius: 50%;
+      border: 1px solid;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-style: 20px;
+      color: rgb(153, 118, 118);
+      cursor: pointer  ;
+
+
+}
+
+.writeInput{
+
+      font-style: 30px;
+      border: none;
+      padding: 20px;
+      width: 70vw;
+}
+
+.writeInput:focus{
+
+    font-size: 20px;
+
+
+}
+
+.writeSubmit{
+
+  
+    position: absolute;
+    top: 20px;
+    right: 50px;
+    color:white;
+    background-color: teal;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-style: 16px;
+}
+
+
